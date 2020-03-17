@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jahdixeak.anglophy.me/sitemap.xml
